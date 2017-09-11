@@ -9,8 +9,14 @@ public class Hello {
     }
 
     public static void callSign() {
+<<<<<<< HEAD
 	//System.out.println("Lock S-foils in attack position.");
         System.Out.println("Stabilize you rear deflectors... Watch for enemy fighters.");
+=======
+	System.out.println("Lock S-foils in attack position.");
+	//System.out.println("Stabilize you rear deflectors... Watch for enemy fighters.");
+        // Gold Leader should add a print statement that says "Stabilize your rear deflectors... Watch for enemy fighters."
+>>>>>>> 7a7ee87154768168bb0f4bf9277665717481da7c
 
     }
 
